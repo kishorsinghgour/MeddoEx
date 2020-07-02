@@ -1,0 +1,10 @@
+export const GREY_TEXT_COLOR = "#b3b6bd";
+export const GREY_DARK_COLOR = '#808080';
+export const BLACK_COLOR = '#000';
+export const PURPLE_COLOR = '#FF9933'
+export const RED_COLOR = '#FF0000'
+export const LIGHT_GREY = '#ededef'
+export const LIGHT_GREY2 = '#c8c8c8'
+export const DARK_GREY = '#A9A9A9'
+export const PURPLE_HEART = '#FF9933'
+export const VIOLET = '#F4C430'
